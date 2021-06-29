@@ -3,7 +3,7 @@ echo "enetr the value of a"
 read a
 echo "enter the name"
 read name
-echo -e "$a\n$name\n$a\n$name"
+echo -e "$a\n$name\n$a\n$name\n$name"
 
 
 
