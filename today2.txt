@@ -3,9 +3,13 @@ echo "enetr the value of a"
 read a
 echo "enter the name"
 read name
+<<<<<<< HEAD
 working on branch
 Linux os good
 how was the day
 echo -e "$a\n$name\n$a\n$name"
+=======
+echo -e "$a\n$name\n$a\n$name\n$name"
+>>>>>>> 0719e7e394e49d7b42898a867c83ddb1fbcfb815
 
 
