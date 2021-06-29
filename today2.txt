@@ -3,7 +3,9 @@ echo "enetr the value of a"
 read a
 echo "enter the name"
 read name
+working on branch
+Linux os good
+how was the day
 echo -e "$a\n$name\n$a\n$name"
-
 
 
